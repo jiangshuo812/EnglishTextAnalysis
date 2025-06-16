@@ -1,0 +1,124 @@
+[
+    {
+      "textNumber": 1,
+      "passage": "Nearly 2000 years ago, as the Romans began to pull out of Scotland, they left behind a curious treasure: 10 tons of nails, nearly a million of the things. The nail hoard was discovered in 1960 in a four-metre-deep pit covered by two metres of gravel.\n\nWhy had the Romans buried a million nails? The likely explanation is that the withdrawal was rushed, and they didn't want the local Caledonians getting their hands on 10 tons of weapons grade iron. The Romans buried the nails so deep that they would not be discovered for almost two millennia.\n\nLater civilizations would value the skilled blacksmith's labour in a nail even more than the raw material. As Roma Agrawal explains in her new delightful book Nuts and Bolts, early 17th-century Virginians would sometimes burn down their homes if they were planning to relocate. This was an attempt to recover the valuable nails, which could be reused after sifting the ashes. The idea that one might burn down an entire house just to reclaim the nails underlines how scarce, costly and valuable the simple-seeming technology was.\n\nThe price of nails fell by 90% between the late 1700s and mid-1900s, as economist Daniel Sichel points out in a research paper. According to Sichel, although the falling price of nails was driven partly by cheaper iron and cheaper energy, most of the credit goes to nail manufacturers who simply found more efficient ways to turn steel into nails.\n\nNails themselves have changed over the years, but Sichel studied them because they haven't changed much. Roman lamps and Roman chariots are very different from LED strips and sports cars, but Roman nails are still clearly nails. It would be absurd to try to track the changing price of sports cars since 1695, but to ask the same question of nails makes perfect sense.\n\nI make no apology for being obsessed by a particular feature of everyday objects: their price. I am an economist, after all. After writing two books about the history of inventions, one thing I've learnt is that while it is the enchantingly sophisticated technologies that get all the hype, it's the cheap technologies that change the world.\n\nThe Gutenberg printing press transformed civilisation not by changing the nature of writing but by changing its cost - and it would have achieved little without a parallel collapse in the price of surfaces to write on, thanks to an overlooked technology called paper. Solar panels had a few niche uses until they became cheap; now they are transforming the global energy system.",
+      "questions": [
+        {
+          "questionNumber": 21,
+          "questionStem": "Romans buried the nails probably for the sake of",
+          "options": {
+            "A": "saving them for future use",
+            "B": "keeping them from rusting",
+            "C": "letting them grow in value",
+            "D": "hiding them from locals"
+          },
+          "correctAnswer": "D"
+        },
+        {
+          "questionNumber": 22,
+          "questionStem": "The example of early 17th-century Virginians is used to",
+          "options": {
+            "A": "highlight the thriftiness of early American colonists",
+            "B": "illustrate the high status of blacksmiths in that period",
+            "C": "contrast the attitudes of different civilizations toward nails",
+            "D": "show the preciousness of nail-making technology at that time"
+          },
+          "correctAnswer": "D"
+        },
+        {
+          "questionNumber": 23,
+          "questionStem": "What played the major role in lowering the price of nail after the late 1700?",
+          "options": {
+            "A": "Increased productivity",
+            "B": "wider use of new energies",
+            "C": "Fierce market competition",
+            "D": "reduced cost of raw material"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "questionNumber": 24,
+          "questionStem": "It can be learned from Paragraph 5 that nails",
+          "options": {
+            "A": "have undergone many technological improvements",
+            "B": "have remained basically the same since Roman times",
+            "C": "are less studied than other everyday product",
+            "D": "are one of the world's most significant inventions"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "questionNumber": 25,
+          "questionStem": "Which of the following one best summaries the last 2 paragraphs?",
+          "options": {
+            "A": "cheap technologies bring about revolutionary change",
+            "B": "technological innovation is integral to economic success",
+            "C": "technology defines people's understanding of the world",
+            "D": "Sophisticated technology developed small inventions"
+          },
+          "correctAnswer": "A"
+        }
+      ]
+    },
+    {
+      "textNumber": 2,
+      "passage": "Parenting tips obtained from hunter-gatherers in Africa may be the key to bringing up more contented children, researchers have suggested. The idea is based on studies of communities such as the !Kung of Botswana, where each child is cared for by many adults. !Kung children as young as four will help to look after younger ones and 'baby-wearing', in which infants are carried in slings, is considered the norm.\n\n According to Dr Nikhil Chaudhary, an evolutionary anthropologist at Cambridge University, these practices, known as alloparenting, could lead to less anxiety for children and parents.\n\nDr Annie Swanepoel, a child psychiatrist, believes that there are ways to incorporate them into western life. In Germany, one scheme has paired an old people's home with a nursery. The residents help to look after the children, an arrangement akin to alloparenting. Another measure could be encouraging friendships between children in different school years to mimic the supervised mixed-age play groups in hunter-gatherer communities.\n\nIn a paper published in the Journal of Child Psychology and Psychiatry, researchers said that the western nuclear family was a recent invention which broke with evolutionary history. This abrupt shift to an 'intensive mothering narrative' which suggests that mothers should manage child care alone, was likely to have been harmful. 'Such narratives can lead to maternal exhaustion and have dangerous consequences,' they wrote.\n\nBy contrast, in hunter-gatherer societies adults other than the parents can provide almost half of a child's care. One previous study looked at the people of the Democratic Republic of Congo. It found that infants had an average of 14 alloparents a day by the time they were 18 weeks old and were passed between care givers eight times an hour.\n\nChaudhary said that parents now had less child care support from family and social networks than during most of human evolutionary history, but introducing additional caregivers could reduce stress and maternal depression, which could have a 'knock-on' benefit to child's wellbeing. An infant born to a hunter-gatherer society could have more than ten caregivers - this contrasts starkly to nursery settings in the UK where regulations call for a ratio of one carer to four children aged two to three.\n\nWhile hunter-gatherer children learn from observation and imitation in mixed-age playgroups, researchers said that western 'instructive teaching', where pupils are asked to sit still, may contribute to conditions such as attention deficit hyperactivity disorder. Chaudhary said that Britain should explore the possibility that older siblings helping their parents might also enhance their own social development.",
+      "questions": [
+        {
+          "questionNumber": 26,
+          "questionStem": "According to the first two paragraphs, alloparenting refers to the practice of",
+          "options": {
+            "A": "sharing childcare among community members",
+            "B": "assigning babies to specific adult categories",
+            "C": "teaching parenting skills to older children",
+            "D": "carrying infants around by their parents"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "questionNumber": 27,
+          "questionStem": "The scheme in Germany is mentioned to illustrate",
+          "options": {
+            "A": "an attempt to facilitate intergenerational communication",
+            "B": "an approach to integrating into western society",
+            "C": "the conventional parenting style in western culture",
+            "D": "the differences between western and African ways of living"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "questionNumber": 28,
+          "questionStem": "According to paragraph 4, the 'intensive mothering narrative'",
+          "options": {
+            "A": "alleviates parenting pressures",
+            "B": "consolidates family relationships",
+            "C": "results in the child-centered family",
+            "D": "departs from the course of evolution"
+          },
+          "correctAnswer": "D"
+        },
+        {
+          "questionNumber": 29,
+          "questionStem": "What can be inferred about the nurseries in the UK?",
+          "options": {
+            "A": "They tend to fall short of official requirements",
+            "B": "They have difficulty finding enough caregivers",
+            "C": "They ought to improve their carer-to-child ratio",
+            "D": "They should try to prevent parental depression"
+          },
+          "correctAnswer": "C"
+        },
+        {
+          "questionNumber": 30,
+          "questionStem": "Which of the following would be the best title for the text?",
+          "options": {
+            "A": "Instructive teaching: a dilemma for anxious parents",
+            "B": "For a happier family learn from the hunter gatherers",
+            "C": "Mixed-aged playgroup: a better choice for lonely children",
+            "D": "Tracing the history of parenting: from Africa to Europe"
+          },
+          "correctAnswer": "B"
+        }
+      ]
+    }
+]
